@@ -34,6 +34,7 @@ List of exisiting cities that have repository with data
 | Kanpur          | https://github.com/kj228/kanpur-covid-resources              | https://kanpur.covidsupport.co.in/    |
 | Delhi           | https://github.com/kanavbatra/covid-resources                | https://delhi.covidsupport.co.in/     |
 | Ranchi          | https://github.com/gagankrmahto/covid-resources              | https://ranchi.covidsupport.co.in/    |
+| Jodhpur         | https://github.com/PrakshalJ/covid-resources                 | http://covid-resources.deejayvu.repl.co/  |
 
 # Cloning for other cities
 
